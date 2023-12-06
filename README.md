@@ -6,6 +6,7 @@ I'm Semina Dilhara, a passionate software engineer with a knack for crafting ele
 
 ### My Status
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeminaDilharaa&theme=radical)
 <!--
 **SeminaDilharaa/SeminaDilharaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
