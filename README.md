@@ -6,7 +6,7 @@ I'm Semina Dilhara, a passionate software engineer with a knack for crafting ele
 
 ### My Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeminaDilharaa&theme=radical)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=SeminaDilharaa&theme=radical)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeminaDilharaa&hide=javascript,css,scss,html&theme=tokyonight)-->
 
